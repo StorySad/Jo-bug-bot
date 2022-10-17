@@ -58,7 +58,7 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git https://github.com/StorySad/Jo-bug-bot
+git clone https://github.com/StorySad/Jo-bug-bot
 cd Jo-bug-bot
 npm install
 ```
