@@ -58,8 +58,8 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/THEJO307/jo-private
-cd jo-private
+git https://github.com/StorySad/Jo-bug-bot
+cd Jo-bug-bot
 npm install
 ```
 
